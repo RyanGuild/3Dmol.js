@@ -20,6 +20,7 @@
     "gulp-merge": "^0.1.1",
     "gulp-rename": "^2.0.0",
     "gulp-shell": "^0.8.0",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-terser": "^2.0.1",
     "gulp-uglify": "^3.0.2",
     "jsdoc": "^3.6.7",
@@ -36,7 +37,7 @@
     "jquery": "^3.6.0",
     "netcdfjs": "^1.0.0",
     "pako": "^2.0.4",
-    "yargs-parser": "^20.2.9",
-    "upng-js": "^2.1.0"
+    "upng-js": "^2.1.0",
+    "yargs-parser": "^20.2.9"
   }
 }
